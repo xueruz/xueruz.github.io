@@ -18,6 +18,6 @@ redirect_from:
 ## Recent News 🎉
 📡 I finished my second summer at Persistent Systems, LLC in NYC, where I worked with engineers in the lab to characterize the power supply of prototype main boards, debug voltage rail issues, write automation scripts, design and run testing matrices among a handful of things. 
 
-🎓 In May 2023, [I graduated](https://cooper.edu/gallery/commencement-2023#img_gallery-15) Magna Cum Laude with my Bachelors in Electrical Engineering and a minor in Computer Science.
+🎓 In May 2023, [I graduated](https://cooper.edu/gallery/commencement-2023#img_gallery-15) Magna Cum Laude with a Bachelors in Electrical Engineering and a minor in Computer Science.
 
 _Last Updated: Sat Oct 7th, 2023_
