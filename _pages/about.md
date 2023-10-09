@@ -13,7 +13,7 @@ I am pursuing a Master's in Electrical Engineering following my undergraduate ed
 
 Currently, I am taking classes in Medical Imaging and Remote Sensing (analyzing satellite imagery), where I hone my image processing skills. On the side, I grade work for the undergraduate Circuit Analysis class that Professor Koo teaches.
 
-My main research interest is in **Analog Radio Frequency Design**. I wish to pursue a PhD to delve deeper into this field and accomplish meaningful research in academia. I have goals of eventually becoming a professor. 
+My main research interest is in **Analog Radio Frequency Design**. I wish to pursue a PhD to delve deeper into this field and accomplish meaningful research in academia. I have goals that include eventually becoming a professor. 
 
 ## Recent News 🎉
 I finished my second summer at Persistent Systems, LLC in NYC, where I worked with engineers in the lab to characterize the power supply of prototype main boards, debug voltage rail issues, write automation scripts, design and run testing matrices among a handful of things. 
