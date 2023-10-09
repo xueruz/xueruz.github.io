@@ -10,7 +10,7 @@ For our senior capstone project, we worked with [Efabless](https://efabless.com/
 
 [Click here to view the poster.](/images/RF-Front-End-Final-Poster.png)
 
-Note: The order of names are **not** by prominence.
+Note: The order of names on either the poster and the report are **not** by prominence, although it is good to note that David Yang volunteered to be the chip captain. 
 
 Here is a picture of my group and I with our poster during the EE senior showcase! (coming soon)
 
