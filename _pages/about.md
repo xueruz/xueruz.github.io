@@ -22,4 +22,6 @@ redirect_from:
 
 🎓 In May 2023, [I graduated](https://cooper.edu/gallery/commencement-2023#img_gallery-15) Magna Cum Laude with a Bachelors in Electrical Engineering and a minor in Computer Science.
 
+👩🏻‍💻 I finally decided to take that leap and create my personal website -- I've been wanting to do this for a long time now! More to come soon.
+
 _Last Updated: Sun Oct 8th, 2023_
