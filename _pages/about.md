@@ -13,11 +13,13 @@ redirect_from:
 
 📚 Currently, I am taking classes in Medical Imaging and Remote Sensing (analyzing satellite imagery), where I hone my image processing skills. On the side, I grade work for the undergraduate Circuit Analysis class that Professor Koo teaches.
 
-🖌️ My main research interest is in Analog Radio Frequency Design. I wish to pursue a PhD to delve deeper into this field and accomplish meaningful research in academia.
+🛜 My main research interest is in **Analog Radio Frequency Design**. I wish to pursue a PhD to delve deeper into this field and accomplish meaningful research in academia!
+
+📖 Recent non-academic interests: _The Three Body Problem_ science-fiction trilogy, interior design in The Sims 4, and weightlifting 
 
 ## Recent News 🎉
 📡 I finished my second summer at Persistent Systems, LLC in NYC, where I worked with engineers in the lab to characterize the power supply of prototype main boards, debug voltage rail issues, write automation scripts, design and run testing matrices among a handful of things. 
 
 🎓 In May 2023, [I graduated](https://cooper.edu/gallery/commencement-2023#img_gallery-15) Magna Cum Laude with a Bachelors in Electrical Engineering and a minor in Computer Science.
 
-_Last Updated: Sat Oct 7th, 2023_
+_Last Updated: Sun Oct 8th, 2023_
