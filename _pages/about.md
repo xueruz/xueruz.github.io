@@ -15,7 +15,7 @@ redirect_from:
 
 🛜 My main research interest is in **Analog Radio Frequency Design**. I wish to pursue a PhD to delve deeper into this field and accomplish meaningful research in academia!
 
-📖 Recent non-academic interests: _The Three Body Problem_ science-fiction trilogy, interior design in The Sims 4, and cinnamon banana almond protein shakes
+🤓 Recent non-academic interests: _The Three Body Problem_ science-fiction trilogy, interior design in The Sims 4, and cinnamon banana almond protein shakes
 
 ## Recent News 🎉
 📡 I finished my second summer at Persistent Systems, LLC in NYC, where I worked with engineers in the lab to characterize the power supply of prototype main boards, debug voltage rail issues, write automation scripts, design and run testing matrices among a handful of things. 
