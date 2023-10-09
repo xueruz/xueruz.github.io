@@ -6,7 +6,7 @@ collection: portfolio
 
 For our senior capstone project, we worked with [Efabless](https://efabless.com/) to design and tape-out a 5 GHz Wi-Fi RF receiver front-end. This project was advised by [Professor Koo](https://cooper.edu/academics/people/ja-beom-koo) and [Professor Shlayan](https://cooper.edu/academics/people/neveen-shlayan). 
 
-Click here to view the PDF of the final report. 
+[Click here to view the PDF of the final report.](/files/Senior_Project_Final_Report.pdf)
 
 [Click here to view the poster.](/images/RF-Front-End-Final-Poster.png)
 
