@@ -6,11 +6,13 @@ collection: portfolio
 
 For our senior capstone project, we worked with [Efabless](https://efabless.com/) to design and tape-out a 5 GHz Wi-Fi RF receiver front-end. This project was advised by [Professor Koo](https://cooper.edu/academics/people/ja-beom-koo) and [Professor Shlayan](https://cooper.edu/academics/people/neveen-shlayan). 
 
-[Click here to view the PDF of the final report.](/files/Senior_Project_Final_Report.pdf)
+📄 [Click here to view the PDF of the final report.](/files/Senior_Project_Final_Report.pdf)
 
-[Click here to view the poster.](/images/RF-Front-End-Final-Poster.png)
+🔎 [Click here to view the poster.](/images/RF-Front-End-Final-Poster.png)
 
 Note: The order of names on either the poster and the report are **not** by prominence, although it is good to note that David Yang volunteered to be the chip captain and led the team during the layout and tapeout process. I plan to test the chips myself (as I am still at The Cooper Union!) when they are fabricated and delivered to us.
 
-Here is a picture of my group and I with our poster during the EE senior showcase! (coming soon)
+Here is a picture of my group and I with our poster during the EE senior showcase! 
+
+![](/images/seniorshowcase.png)
 
