@@ -1,7 +1,7 @@
 ---
 title: "IC Design for 5 GHz Wi-Fi Radio Frequency Receiver Front-end"
 excerpt: "**Abstract:** The objective of this project is to design and tape-out a working radio frequency (RF) front-end of a 5 GHz Wi-Fi receiver chip with a focus on linearity. Due to the significance of signal integrity, the receiver must be linear enough so that there is minimum distortion and power loss. Using the 130 nm SKY130 PDK in collaboration with NYDesign's I.C. program, Efabless, the blocks of the front-end (low-noise amplifier, mixer, oscillator) were simulated individually and as an overall system. While the simulation results for the overall system were not very promising, the individual blocks show comparable results (to existing designs) across parameters such as gain, linearity, noise and power. For next steps, we plan on designing a PCB to test the chips when they arrive.  
-**Click to see the read final report and presentation poster.**"
+**Click to read final report and presentation poster.**"
 collection: portfolio
 ---
 
