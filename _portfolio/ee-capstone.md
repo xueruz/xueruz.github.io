@@ -10,5 +10,5 @@ For our senior capstone project, we worked with [Efabless](https://efabless.com/
 📄 [Click here to view the PDF of the final report.](/files/Senior_Project_Final_Report.pdf)
 
 Senior Project Showcase Poster: 
-![](/images/RF-Front-End-Final-Poster.png)
+![](/images/ee-cap-poster.png)
 
